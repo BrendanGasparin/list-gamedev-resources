@@ -10,6 +10,10 @@ A list of game development resources.
 - [Unity](https://unity.com/): A versatile cross-platform game engine widely used for creating both 2D and 3D games ranging from indie titles to commercial productions.
 - [Unreal Engine](https://www.unrealengine.com/): A powerful AAA-focused game engine featuring advanced graphics, high-end 3D tools, and visual scripting through Blueprints.
 
+## Other Tools
+
+- [Aseprite](https://www.aseprite.org/): An animated sprite and pixel editor for making 2D art assets.
+
 ## YouTube Channels
 
 YouTube channels that cover game development and related topics.  
