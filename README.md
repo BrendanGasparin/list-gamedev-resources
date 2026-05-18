@@ -14,6 +14,10 @@ A list of game development resources.
 
 - [Aseprite](https://www.aseprite.org/): An animated sprite and pixel editor for making 2D art assets.
 
+## Learning Resources
+
+- [Zenva Academy](https://academy.zenva.com): Zenva Academy has courses on game development and coding with various different languages and game engines.
+
 ## YouTube Channels
 
 YouTube channels that cover game development and related topics.  
