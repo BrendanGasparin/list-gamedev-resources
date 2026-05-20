@@ -25,3 +25,4 @@ YouTube channels that cover game development and related topics.
 
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA): Brackeys has a lot of video tutorials on making games with Unity, as well as a few more recent ones teaching Godot.
 - [Juniper Dev](https://www.youtube.com/channel/UChzRJQ-MbpcIxFT5YLW1R9w): Juniper is a game development student with interesting and entertaining takes on both game development, and gaming itself.
+- [Thomas Brush](https://www.youtube.com/channel/UCuHVjteDW9tCb8QqMrtGvwQ): Thomas Brush is the creator of Pinstripe, Neversong, and is currently working on his third commercial release: Twisted Tower. He makes videos about many facets of game development, from design to publishing.
