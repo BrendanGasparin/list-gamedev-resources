@@ -24,3 +24,4 @@ A list of game development resources.
 YouTube channels that cover game development and related topics.  
 
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA): Brackeys has a lot of video tutorials on making games with Unity, as well as a few more recent ones teaching Godot.
+- [Juniper Dev](https://www.youtube.com/channel/UChzRJQ-MbpcIxFT5YLW1R9w): Juniper is a game development student with interesting and entertaining takes on both game development, and gaming itself.
