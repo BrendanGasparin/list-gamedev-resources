@@ -24,6 +24,7 @@ A list of game development resources.
 Resources that are specific to game development on Pico-8.  
 
 - [Pico-8 Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=54246): A 4K cheat sheet of Pico-8 commands you can use as your desktop background.
+- [Pico-8 Wiki](https://pico-8.fandom.com/wiki/Pico-8_Wikia): Information, tutorials, and reference material from the Pico-8 community.
 
 ## YouTube Channels
 
