@@ -19,6 +19,12 @@ A list of game development resources.
 
 - [Zenva Academy](https://academy.zenva.com): Zenva Academy has courses on game development and coding with various different languages and game engines.
 
+## Pico-8 Resources
+
+Resources that are specific to game development on Pico-8.  
+
+- [Pico-8 Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=54246): A 4K cheat sheet of Pico-8 commands you can use as your desktop background.
+
 ## YouTube Channels
 
 YouTube channels that cover game development and related topics.  
